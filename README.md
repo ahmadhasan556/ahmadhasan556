@@ -1,7 +1,93 @@
-<h1 align="center">Hey there 👋 I'm Ahmad Hasan</h1> <h1 align="center">A Multi Stack Web/Mobile App Developer from Pakistan.</h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Ahmad+Hasan;Software+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /> </div> <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div>
-<h2 align="center">💡 About Me</h2> <p align="center"> 🔭 Software Developer @ MABSOL Technologies<br> 🌱 Currently learning Python + emerging technologies<br> ⚡ I love building cool stuff, learning, and solving problems </p>
-<h2 align="center">🛠 Languages & Tools</h2> <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" /> </div>
-<h2 align="center">📊 My GitHub Stats</h2> <div align="center"> <img src="https://streak-stats.demolab.com?user=ahmadhasan556&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" /> </div>
-<h2 align="center">🌐 Connect with Me</h2> <div align="center"> <a href="mailto:ah55677435@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/ahmadhasan556/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /> </a> <a href="https://www.youtube.com/@ahmad-hasan556" target="_blank"> <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /> </a> <a href="https://www.facebook.com/ahmadhasan556" target="_blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" /> </a> </div>
-<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadhasan556.ahmadhasan556" alt="visitor badge" /> </div>
+<h1 align="center">👋 Hi, I'm Ahmad Hasan</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & Cloud Applications</h3>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Ahmad+Hasan;Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Builder;SaaS+Product+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
+
+---
+
+<h2 align="center">💡 About Me</h2>
+
+<p align="center">
+
+💻 Software Engineer at <b>MABSOL Technologies</b> working on scalable web platforms and SaaS systems within the <b>P2P Clouds</b> ecosystem.  
+🚀 Building modern applications using <b>MERN Stack, Next.js, and Cloud technologies</b>.  
+🤖 Exploring <b>Artificial Intelligence, automation systems, and intelligent applications</b>.  
+🎓 AI & Web Development Instructor at <b>SkillUstad</b>, mentoring students to build real-world software projects.  
+⚙️ Passionate about <b>scalable systems, SaaS products, AI-powered applications, and modern software architecture.</b>
+
+</p>
+
+---
+
+<h2 align="center">🛠 Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ahmadhasan556&theme=dark&border_radius=5" height="220"/>
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="mailto:ah55677435@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmadhasan556/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@ahmad-hasan556" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/ahmadhasan556" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadhasan556.ahmadhasan556"/>
+</div>
