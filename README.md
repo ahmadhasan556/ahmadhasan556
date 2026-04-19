@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ahmad Hasan</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI & Cloud Applications</h3>
+<h3 align="center">Software Engineer | Instructor | AI & Cloud Applications</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Ahmad+Hasan;Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Builder;SaaS+Product+Developer" alt="Typing SVG" />
