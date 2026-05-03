@@ -1,31 +1,33 @@
-<h1 align="center">👋 Hi, I'm Ahmad Hasan</h1>
-<h3 align="center">Software Engineer | Instructor | AI & Cloud Applications</h3>
+<h1 align="center">Ahmad Hassan</h1>
+<h3 align="center">Software Engineer • AI Systems Builder • SaaS Architect</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Ahmad+Hasan;Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Builder;SaaS+Product+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+AI-powered+SaaS+Products;Full+Stack+Engineer+(MERN+%2B+Next.js);Automation+%26+Cloud+Systems;Turning+Ideas+into+Scalable+Products" />
 </div>
 
 ---
 
-<h2 align="center">💡 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 
-💻 Software Engineer at <b>MABSOL Technologies</b> working on scalable web platforms and SaaS systems within the <b>P2P Clouds</b> ecosystem.  
-🚀 Building modern applications using <b>MERN Stack, Next.js, and Cloud technologies</b>.  
-🤖 Exploring <b>Artificial Intelligence, automation systems, and intelligent applications</b>.  
-🎓 AI & Web Development Instructor at <b>SkillUstad</b>, mentoring students to build real-world software projects.  
-⚙️ Passionate about <b>scalable systems, SaaS products, AI-powered applications, and modern software architecture.</b>
+I build scalable **AI-powered SaaS products**, automation systems, and modern web applications.  
+Currently working within the **P2PClouds ecosystem**, focusing on real-world systems like LMS, CRM, and AI platforms.
 
+I don’t just write code — I design systems that **scale, automate, and generate business value**.
+
+</p>
+
+<p align="center">
+• MERN Stack, Next.js, TypeScript  
+• AI Agents (LangChain, CrewAI, Automation Systems)  
+• Cloud (AWS, Firebase, GCP)  
+• FastAPI & Backend Systems  
 </p>
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -54,17 +56,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ahmadhasan556&theme=dark&border_radius=5" height="220"/>
-
+  <img src="https://streak-stats.demolab.com?user=ahmaddev-ai&theme=dark&border_radius=8" height="220"/>
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -72,16 +72,16 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ahmadhasan556/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ahmaddev-ai/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@ahmad-hasan556" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://instagram.com/ahmaddev.ai" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/ahmadhasan556" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://github.com/ahmaddev-ai" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -89,5 +89,5 @@
 ---
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadhasan556.ahmadhasan556"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmaddev-ai"/>
 </div>
